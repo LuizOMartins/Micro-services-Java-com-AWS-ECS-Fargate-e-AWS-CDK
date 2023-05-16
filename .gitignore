@@ -4,6 +4,10 @@
 /aws_project01_start/.git
 /aws_project02_start/.git
 
+
+/aws_project01_start/build/tmp
+/aws_project01_start/build/dependency/*
+/aws_project01_start/build/docker/dependency/*
 # Compiled class file
 *.class
 
