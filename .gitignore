@@ -1,0 +1,93 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+
+/aws_project01_start/.git
+/aws_project02_start/.git
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/.idea
+/.gradle
+
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+# dependencies
+/node_modules
+
+# profiling files
+chrome-profiler-events*.json
+speed-measure-plugin*.json
+/__MACOSX
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+API/apiproduto/.idea
+API/apiproduto/.mvn
+API/apiproduto/target/*
+API/apiproduto/.mvn
+
+# IDE - VSCode
+.vscode/*
+/.vs
+!.vscode/settings.json
+.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+package-lock.json
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+#spec files
+*.spec.ts
+
+.vscode
+
+# .Angular
+.angular/
+
