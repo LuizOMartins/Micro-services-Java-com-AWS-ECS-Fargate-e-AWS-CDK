@@ -38,4 +38,9 @@ Recursos: são os recursos que serão criados, como: EC2, S3, RDS, etc;
 - Parametros: são valores que podem ser passados para o CloudFormation, como: nome de usuário, senha, etc;
 - Outputs: são valores que podem ser retornados pelo CloudFormation, como: URL de um site, etc;
 
+Quando apagar uma Stack?
+- Todos os seus recursos são apagados;
+
 _______________________________________________________
+
+
