@@ -4,6 +4,10 @@
 /aws_project01_start/.git
 /aws_project02_start/.git
 
+/curso_aws_cdk/cdk.out
+/curso_aws_cdk/.idea
+/curso_aws_cdk/target
+/curso_aws_cdk/build/tmp
 
 /aws_project01_start/build/tmp
 /aws_project01_start/build/dependency/*
