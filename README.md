@@ -79,5 +79,5 @@ _______________________________________________________
 comandos:
 
 cdk list: lista as Stack criadas;
-
 cdk bootstrap: cria um bucket na AWS, para armazenar os arquivos do CloudFormation;
+cdk diff: mostra as diferenças entre o código e o que está rodando na AWS;
